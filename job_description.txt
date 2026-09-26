@@ -1,0 +1,18 @@
+AI Engineering Intern - AIVI Intelligence
+
+We are looking for an AI Engineering Intern to help build LLM-powered
+product features.
+
+Requirements:
+- Strong Python programming skills.
+- Experience calling LLM APIs (OpenAI, Gemini, Anthropic, or similar).
+- Familiarity with data validation using Pydantic or similar libraries.
+- Experience with Docker and containerized deployments.
+- Understanding of prompt engineering and structured output generation.
+- Exposure to cloud platforms (AWS, GCP, or Azure).
+- Bonus: experience with retrieval-augmented generation (RAG).
+
+Responsibilities:
+- Prototype and productionize LLM-powered evaluation pipelines.
+- Write robust, well-tested Python code.
+- Collaborate with the product team on API design.

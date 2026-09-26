@@ -1,0 +1,25 @@
+Jordan Alvarez
+AI/ML Engineer
+
+SUMMARY
+Software engineer with 3 years of experience building data pipelines and
+machine learning prototypes in Python. Comfortable working across the
+full ML lifecycle from data cleaning to model deployment.
+
+SKILLS
+Python, Pandas, NumPy, scikit-learn, SQL, REST APIs, Git, Linux,
+basic AWS (S3, EC2), Flask
+
+EXPERIENCE
+Data & Automation Engineer, Northbridge Analytics (2022 - Present)
+- Built ETL pipelines in Python that process ~2M records/day.
+- Developed a scikit-learn classification model to flag anomalous
+  transactions, integrated into an internal Flask API.
+- Wrote unit tests and CI checks using GitHub Actions.
+
+Junior Developer, Cascade Software (2021 - 2022)
+- Maintained internal tooling in Python and SQL.
+- Assisted senior engineers with REST API integrations.
+
+EDUCATION
+B.S. Computer Science, State University, 2021
